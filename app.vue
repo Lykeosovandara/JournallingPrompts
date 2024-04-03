@@ -103,7 +103,7 @@ const save = () => {
 
 
 const question: string[] = [
-  "1. What would you do if money were no object?  1. How would you use your talents and skills to serve others?",
+  "1. What would you do if money were no object? How would you use your talents and skills to serve others?",
   "2 . What would you like people to say at your funeral? ",
   "3. If I repeat this week's actions for 10 years, where does it lead, and is that where I want to be? ",
   "4. What activities in the last 2 weeks have energized and drained me? ",
